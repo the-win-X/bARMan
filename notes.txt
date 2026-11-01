@@ -1,0 +1,8 @@
+Main Shaft - N/A ID, 10mm OD
+Bearing 1 - 10x15x3mm
+Shaft 1 - 15mm ID, 20mm OD
+Bearing 2 - 20x27x4mm
+Shaft 2 - 27mm ID, 35mm OD
+Bearing 3 - 35x44x5mm
+Shaft 3 - 44mm ID, 50mm OD
+Bearing 4 - 50x62x6mm
